@@ -1,0 +1,67 @@
+{
+"molienda":{
+    "ide":"",
+    "descripcion":""
+},
+"presentacion":{
+    "ide":"",
+    "descripcion":"",
+    "gramos":0
+},
+"especilaidad":{
+    "ide":"",
+    "nombre":"",
+    "detalle":{
+        "descripcion":"",
+        "variedad":"",
+        "puntuacion":"",
+        "finca":{
+            "nombre":"",
+            "productor":"",
+            "altura":0
+        },
+        "proceso":"",
+        "notas":""
+    }
+},
+"productos":{
+    "ide":"",
+    "nombre":"",
+    "descripcion":"",
+    "precio":0.0,
+    "presentacion_ide":"",
+    "especilaidad_ide":""
+},
+"combo":{
+    "ide":"",
+    "nombre":"",
+    "descripcion":"",
+    "items":[
+        {"productos_ide":""}
+    ],
+    "precio":0.0
+},
+"cliente":{
+    "ide":"",
+    "nombre":{
+        "nombre":"",
+        "ap_paterno":"",
+        "ap_materno":""
+    },
+    "usuario":"",
+    "correo":"",
+    "password":"",
+    "direcciones":[
+        {
+            "nombre":"",
+            "calle":"",
+            "num_ext":"",
+            "num_int":"",
+            "detalle":"",
+            "estado":"",
+            "municipio":"",
+            "codigo_postal":""
+        }
+    ]
+}
+}
